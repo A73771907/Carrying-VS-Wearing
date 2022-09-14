@@ -1,0 +1,5 @@
+**/__pycache__
+Zips/
+env/
+*.sock
+wsgi.py
